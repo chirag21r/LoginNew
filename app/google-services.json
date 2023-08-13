@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426317342995",
+    "project_id": "pulselyric-37d3b",
+    "storage_bucket": "pulselyric-37d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426317342995:android:525f7819858b12c957d2e6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426317342995-ifqs299q9qr1fctsti7inia6tc4lmsq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SaNcphGJbPutUY8VKpkOt--yAc8ipuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426317342995-ifqs299q9qr1fctsti7inia6tc4lmsq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
